@@ -1,5 +1,7 @@
 # OneAtlas Android SDK
 
+This is the Maven repository for OneAtlas Android SDK.
+
 ## Quick start
 
 Add the OneAtlas SDK dependency to your ```build.gradle```file:
@@ -32,7 +34,7 @@ Please visit [OneAtlas Developer Portal](https://api.oneatlas.airbus.com/mobile)
 
 ## Sample code
 
-This [GitHub repository](https://github.com/airbusgeo/oneatlas-sdk-android-sample-code) hosts some Android sample code that will help get you started.
+This [GitHub repository](https://github.com/airbusgeo/oneatlas-sdk-android-sample-app) hosts some Android sample code that will help get you started.
 
 ## Author
 
