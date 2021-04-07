@@ -9,7 +9,7 @@ Add the OneAtlas SDK dependency to your ```build.gradle```file:
 ```gradle
 dependencies {
     // ...
-    productionImplementation 'com.airbus.oneatlas:oneatlas:1.2.1'
+    implementation 'com.airbus.oneatlas:oneatlas:1.2.1'
     // ...
 }
 ```
